@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : # An array of links to social media profiles
 
 
 # Analytics
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/CongUcas"
+  github           : "/CongUcas"
   google_plus      :
   keybase          :
   instagram        :
@@ -187,9 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -247,14 +244,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: project
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
