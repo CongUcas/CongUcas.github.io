@@ -7,7 +7,7 @@ main:
   #  url: /talks/ 
 
   - title: "项目Projects"
-    url: /year-archive/  
+    url: /project/  
 
   #- title: "Teaching"
   #  url: /teaching/    
