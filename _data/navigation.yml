@@ -15,11 +15,11 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "博客Blog"
+  - title: "博客Blogs"
     url: /year-archive/
     
-  - title: "简历Curriculum Vitae"
-    url: /curriculum vitae/
+  - title: "简历CV"
+    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
