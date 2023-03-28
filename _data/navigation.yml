@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "出版物Publications"
     url: /publications/
 
   #- title: "Talks"
   #  url: /talks/ 
 
-  - title: "Projects"
+  - title: "项目Projects"
     url: /projects/  
 
   #- title: "Teaching"
@@ -15,10 +15,10 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "博客Blog"
     url: /year-archive/
     
-  - title: "Curriculum Vitae"
+  - title: "简历Curriculum Vitae"
     url: /curriculum vitae/
     
   #- title: "Guide"
